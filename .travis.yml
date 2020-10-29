@@ -1,3 +1,6 @@
+arch:
+ - amd64
+ - ppc64le
 language: python
 # Required for py3.8 and up
 dist: xenial
